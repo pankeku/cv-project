@@ -1,4 +1,4 @@
-Assignmenet page: https://www.theodinproject.com/lessons/node-path-javascript-cv-application
+Assignment page: https://www.theodinproject.com/lessons/node-path-javascript-cv-application
 
 Application should include:
 - A section to add general information like name, email, phone number.
