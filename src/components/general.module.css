@@ -2,6 +2,16 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
+  width: 200px;
+}
+
+.container:hover .editButton {
+  display: block;
+}
+
+.editButton {
+  color: green;
+  display: none;
 }
 
 .header_container {
@@ -10,10 +20,20 @@
   align-items: center;
 }
 
+
+
 label {
   display: flex;
   flex-direction: column;
   font-weight: 700;
+}
+
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  background: lightskyblue;
 }
 
 label * {
